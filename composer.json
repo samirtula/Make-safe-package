@@ -11,5 +11,7 @@
             "name": "Samir Gakhramanov"
         }
     ],
-    "require": {}
+    "require": {
+        "php":">= 4.0"
+    }
 }
