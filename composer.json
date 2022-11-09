@@ -1,0 +1,15 @@
+{
+    "name": "s.gakhramanov/make-safe",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "SGakhramanov\\MakeSafe\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Samir Gakhramanov"
+        }
+    ],
+    "require": {}
+}
